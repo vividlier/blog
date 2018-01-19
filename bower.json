@@ -1,0 +1,14 @@
+{
+  "name": "zero_blog",
+  "homepage": "https://github.com/maplefater/oes",
+  "authors": [
+    "MapleFater <602795977@qq.com>"
+  ],
+  "description": "zero ",
+  "main": "",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "4.0",
+    "popper.js": "^1.12.9"
+  }
+}
