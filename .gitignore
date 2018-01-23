@@ -107,3 +107,12 @@ venv.bak/
 
 
 
+#.idea/
+#blog/
+#bower.json
+#log/
+#manage.py
+#static/
+#templates/
+#uploads/
+#zero_blog/
